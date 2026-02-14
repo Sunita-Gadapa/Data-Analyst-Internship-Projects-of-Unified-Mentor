@@ -1,0 +1,26 @@
+feature,importance
+Ram,0.15693335
+Pixels,0.08805625
+Type_clean_Notebook,0.08404366
+SecondaryStorageType_SSD,0.08063823
+Type_clean_Workstation,0.05716575
+PrimaryStorageType_SSD,0.054821108
+ScreenW,0.038582783
+Screen_Standard,0.028470073
+PrimaryStorageType_HDD,0.023415944
+OS_clean_Windows 7,0.022081098
+Company_Razer,0.020841647
+CPU_brand_Intel,0.019377422
+CPU_freq,0.019036701
+PPI_proxy,0.01695159
+Screen_4K Ultra HD,0.013858357
+CPU_brand_Amd,0.013537649
+Screen_Quad HD+,0.01344383
+Inches,0.013314186
+Company_LG,0.012453455
+OS_clean_No Os,0.011832804
+Weight,0.011352039
+Touchscreen_Yes,0.010638207
+GPU_brand_Amd,0.01026046
+PrimaryStorage,0.00977362
+Company_Acer,0.008316015
